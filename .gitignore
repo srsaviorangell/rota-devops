@@ -1,0 +1,9 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.env
+.env.local
+rota-progresso-*.json
+*.log
+.DS_Store
